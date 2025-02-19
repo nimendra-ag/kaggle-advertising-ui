@@ -9,7 +9,6 @@ function App() {
     <>
       <InputForm/>
       <br /><br />
-      <Output output={10}/>
     </>
   )
 }
