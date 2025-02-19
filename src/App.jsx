@@ -8,7 +8,6 @@ function App() {
   return (
     <>
       <InputForm/>
-      <br /><br />
     </>
   )
 }
